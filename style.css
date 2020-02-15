@@ -1,18 +1,11 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	background: url(adssadasdsad.jpg) no-repeat; 
-background-size: cover;  
--moz-background-size: cover;  
--o-background-size: cover;
-display:block;  
-width:99%;  
-height:100%;  
-position:absolute;  
-overflow:auto;  
+	color: #F1F1F1;
+	background: #666699 repeat-x;
 	text-align: center;
 	margin: 0;
-)
+}
 
 #wrapper {
 	width: 855px;
@@ -21,7 +14,7 @@ overflow:auto;
 }
 
 a {
-	color: #0066ff;
+	color: #28a75f;
 	text-decoration: none;
 }
 
@@ -44,7 +37,7 @@ a:hover {
 }
 
 .light_logo {
-	color: rgb(7, 255, 160);
+	color: #FF0000;
 }
 
 #logo a {
@@ -146,7 +139,7 @@ a:hover {
 	float: left;
 	width: 1000px;
 	padding: 12px;
-	background: #0fb600;
+	background: #eae427;
 	text-align: center;
 	margin-bottom: 50px
 	
@@ -211,7 +204,7 @@ h2 {
 	margin-left: 10px;
 	color: #FFF;
     width: 250px;
-	background: url(../images/strza�ka.gif) no-repeat left;
+	background: url(../images/strzałka.gif) no-repeat left;
 }
 
 #content_box a {
@@ -243,5 +236,3 @@ h2 {
 #footer a {
 	color: #666;
 }
-
-
