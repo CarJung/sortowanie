@@ -17,7 +17,7 @@
     </div>
     <div id="menu">
         <ul>
-        <li><a href="stronka.html" class="active_tab">Strona główna</a></li>
+        <li><a href="README.md" class="active_tab">Strona główna</a></li>
         <li><a href="Podstrona 1.html">Sortowanie bąbelkowe</a></li>
         <li><a href="Podstrona 2.html">Sortowanie przez wybór</a></li>
         <li><a href="Podstrona 3.html">Sortowanie pozycyjne</a></li>
