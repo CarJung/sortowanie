@@ -1,6 +1,6 @@
 body {
 	
-	background: url(adssadasdsad.jpg) no-repeat;
+	background: url(adssadasdsad.jpg) repeat;
 	background-size: cover;  
 	-moz-background-size: cover;  
 	-o-background-size: cover;
@@ -10,7 +10,7 @@ body {
 	position:absolute;  
 	overflow:auto;
 	
-
+}
 
 #wrapper {
 	width: 855px;
@@ -241,4 +241,4 @@ h2 {
 #footer a {
 	color: #666;
 }
-}
+
