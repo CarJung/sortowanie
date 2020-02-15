@@ -2,12 +2,14 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	background: url(adssadasdsad.jpg) no-repeat; 
-	background-size: cover;
-	display:block;  
+background-size: cover;  
+-moz-background-size: cover;  
+-o-background-size: cover;
+display:block;  
 width:99%;  
 height:100%;  
 position:absolute;  
-overflow:auto; 
+overflow:auto;  
 	text-align: center;
 	margin: 0;
 
