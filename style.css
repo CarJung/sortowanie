@@ -1,8 +1,8 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	color: #F1F1F1;
-	background: #666699 repeat-x;
+	color: rgb(255, 255, 255);
+	background: #4119f198 repeat-x;
 	text-align: center;
 	margin: 0;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 a {
-	color: #28a75f;
+	color: #0066ff;
 	text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ a:hover {
 }
 
 .light_logo {
-	color: #FF0000;
+	color: rgb(7, 255, 160);
 }
 
 #logo a {
@@ -139,7 +139,7 @@ a:hover {
 	float: left;
 	width: 1000px;
 	padding: 12px;
-	background: #eae427;
+	background: #0fb600;
 	text-align: center;
 	margin-bottom: 50px
 	
@@ -204,7 +204,7 @@ h2 {
 	margin-left: 10px;
 	color: #FFF;
     width: 250px;
-	background: url(../images/strza³ka.gif) no-repeat left;
+	background: url(../images/strzaï¿½ka.gif) no-repeat left;
 }
 
 #content_box a {
