@@ -64,7 +64,7 @@
     <h2>Bibliografia</h2>
         <ul>
         <li><a href="https://www.google.pl/imghp?hl=pl&tab=wi">Google Grafika</a></li>
-        <li><a href="http://podlaska.policja.gov.pl/pod/dzialania-policji/przestepczosc-gospodar/struktura-wydzialu/zespol-iii/piractwo-komputerowe/28415,Piractwo-komputerowe.html">Piractwo Komputerowe</a>
+        <li><a href="http://podlaska.policja.gov.pl/pod/dzialania-policji/przestepczosc-gospodar/struktura-wydzialu/zespol-iii/piractwo-komputerowe/28415,Piractwo-komputerowe.html">Sortowanie bąbelkowe</a>
         <li><a href="#">Link 3</a></li>
         <li><a href="#">Link 4</a></li>
         </ul>
