@@ -9,9 +9,8 @@ body {
 	height:100%;  
 	position:absolute;  
 	overflow:auto;
-	text-align: center;
 	
-}
+
 
 #wrapper {
 	width: 855px;
@@ -241,4 +240,5 @@ h2 {
 
 #footer a {
 	color: #666;
+}
 }
