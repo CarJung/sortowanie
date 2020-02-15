@@ -10,7 +10,7 @@ position:absolute;
 overflow:auto; 
 	text-align: center;
 	margin: 0;
-}
+
 
 #wrapper {
 	width: 855px;
@@ -242,3 +242,4 @@ h2 {
 	color: #666;
 }
 
+}
